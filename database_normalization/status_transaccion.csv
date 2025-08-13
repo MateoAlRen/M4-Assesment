@@ -1,0 +1,4 @@
+status_id,status_name
+1,Pendiente
+2,Fallida
+3,Completada
